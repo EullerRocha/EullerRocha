@@ -39,7 +39,7 @@ Algumas metas que tracei para realizar no decorrer dos próximos meses:
 
 • Começar com o Desenvolvimento Web
 
-• Compartilhe meus avanços aqui no GitHub
+• Compartilhar meus avanços aqui no GitHub
 
 • Criar projetos mais elaborados
 
@@ -58,5 +58,3 @@ Caso queira me acompanhar nessa jornada ou trocar alguma ideia, aqui estão meus
 Caso você esteja começando ou já trabalhe na área e queira compartilhar dicas, feedbacks ou sugestões, estou sempre disposto e aberto a aprender mais.
 
 Espero que tenha gostado e obrigado por visitar meu Portfólio.
-
-Obrigado por visitar meu portfólio.
